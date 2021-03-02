@@ -8,4 +8,4 @@ if question == answer_chooser:
 else:
     print('Incorrect the answer was ' + answer_chooser + '!')
     
-print('Enjoyed this project? Well thanks! Follow me on GitHub Link: [https://github.com/pythonprogrammerandjs] Thanks!')
+print('Enjoyed this project? Well thanks! Follow me on GitHub Link: [https://github.com/nayvd] Thanks!')
